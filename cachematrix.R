@@ -1,5 +1,5 @@
 ## Put comments here that give an overall description of what your
-## functions do
+## functions do 
 ## Write a short comment describing this function
 # This function creates a list of four functions that operate on the input matrix
 makeCacheMatrix <- function(x = matrix()) {
